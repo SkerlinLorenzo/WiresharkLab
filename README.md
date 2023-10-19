@@ -16,10 +16,7 @@ In this Wireshark project, I conducted a comprehensive network traffic analysis 
 <h2>Screenshots:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+ ![Screenshot1](https://github.com/SkerlinLorenzo/WiresharkLab/assets/101306083/ff8fca9b-f395-4966-9904-b38acaa766f4)
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
