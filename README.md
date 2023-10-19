@@ -14,36 +14,33 @@ In this Wireshark project, I conducted a comprehensive network traffic analysis 
 
 
 <h2>Screenshots:</h2>
-
 <p align="center">
- ![Screenshot1](https://github.com/SkerlinLorenzo/WiresharkLab/assets/101306083/ff8fca9b-f395-4966-9904-b38acaa766f4)
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+
+<img src="https://github.com/SkerlinLorenzo/WiresharkLab/assets/101306083/ff8fca9b-f395-4966-9904-b38acaa766f4"/>
+ 
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+<img src="https://github.com/SkerlinLorenzo/WiresharkLab/assets/101306083/60925d66-b636-4c6d-953a-540d94c7bea4"/>
+
 </p>
 
 <h2>Installation:</h2>
+<h3>Setting up the Ubuntu Virtual Machine</h3>
 
-<p></p>
+- <b> Sign in to your Cloud Account to spin up an Ubuntu VM, or launch the VM directly from your host computer. </b>
+
+- <b> Customize the virtual machine's specifications, including CPU, memory, and storage, as needed for your project. </b>
+
+- <b> Make sure your Ubuntu VM is properly configured and up to date to ensure a smooth and efficient network traffic analysis process. </b>
+
+
+<h3>Updating Wireshark to the Latest Version</h3>
+
+- <b>Open the terminal within your Ubuntu virtual machine.</b>
+
+-  <b>Execute the necessary command to update Wireshark to the latest version.</b> 
 <!--
  ```diff
 - text in red
