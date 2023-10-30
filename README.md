@@ -29,11 +29,11 @@ In this Wireshark project, I conducted a comprehensive network traffic analysis 
 <h2>Installation:</h2>
 <h3>Setting up the Ubuntu Virtual Machine</h3>
 
-- <b> Sign in to your Cloud Account to spin up an Ubuntu VM, or launch the VM directly from your host computer. </b>
+- <b> Sign in to your Cloud Account. Once you're logged in, you can choose to either spin up an Ubuntu Virtual Machine (VM) directly from your Cloud Account or alternatively, you can launch the VM directly from your host computer. </b>
 
 - <b> Customize the virtual machine's specifications, including CPU, memory, and storage, as needed for your project. </b>
 
-- <b> Make sure your Ubuntu VM is properly configured and up to date to ensure a smooth and efficient network traffic analysis process. </b>
+- <b> Ensure your Ubuntu VM is properly configured and up to date to ensure a smooth and efficient network traffic analysis process. </b>
 
 
 <h3>Updating Wireshark to the Latest Version</h3>
