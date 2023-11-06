@@ -15,15 +15,12 @@ In this Wireshark project, I conducted a comprehensive network traffic analysis 
 
 <h2>Screenshots:</h2>
 <p align="center">
- 
-
-<img src="https://github.com/SkerlinLorenzo/WiresharkLab/assets/101306083/ff8fca9b-f395-4966-9904-b38acaa766f4"/>
+ <img src="https://github.com/SkerlinLorenzo/WiresharkLab/assets/101306083/ff8fca9b-f395-4966-9904-b38acaa766f4"/>
  
 <br />
 <br />
  
 <img src="https://github.com/SkerlinLorenzo/WiresharkLab/assets/101306083/60925d66-b636-4c6d-953a-540d94c7bea4"/>
-
 </p>
 
 <h2>Installation:</h2>
